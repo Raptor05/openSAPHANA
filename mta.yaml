@@ -10,6 +10,8 @@ modules:
       disk-quota: 256M
     requires:
       - name: openSAPHANA-hdi-container
+        properties:
+          TARGET_CONTAINER: '~{hdi-container-name}'
   - name: srv
     type: nodejs
     path: srv

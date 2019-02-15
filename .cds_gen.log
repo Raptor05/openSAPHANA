@@ -1,0 +1,6 @@
+db/src/gen/.hdinamespace
+db/src/gen/BASE.hdbcds
+db/src/gen/OPENSAP_PURCHASEORDER_HEADERS.hdbcds
+db/src/gen/OPENSAP_PURCHASEORDER_ITEMS.hdbcds
+db/src/gen/OPENSAP_PURCHASEORDER_ITEMVIEW.hdbcds
+srv/gen/csn.json
